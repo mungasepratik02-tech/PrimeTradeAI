@@ -1,0 +1,2 @@
+# PrimeTradeAI
+Trading Bot
